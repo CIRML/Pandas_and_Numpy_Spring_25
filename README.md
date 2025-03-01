@@ -46,9 +46,6 @@ This seminar provides an **immersive, hands-on approach** to data manipulation a
 
 ## 📚 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #D35400;">Core Learning Modules</span>  
 
-### 🔷 <span style="color: #2E86C1;">NumPy: The Backbone of Scientific Computing</span>  
-**Definition:** NumPy (Numerical Python) is a fundamental package for scientific computing with Python. It provides support for **multi-dimensional arrays, mathematical functions, linear algebra, and more**, making numerical computations faster and more efficient.  
-
 ✅ **Array & Matrix Operations**  
 ✅ **Indexing, Slicing, and Iteration Techniques**  
 ✅ **Performance Optimization using Vectorized Operations**  
@@ -64,8 +61,7 @@ a = np.array([1, 2, 3, 4, 5])
 print(a)
 ```
 
-### 🔷 <span style="color: #27AE60;">Pandas: The Powerhouse of Data Analysis</span>  
-**Definition:** Pandas is a fast, flexible, and powerful open-source **data analysis and manipulation tool** built on top of Python. It provides easy-to-use data structures such as **Series and DataFrames**, enabling efficient handling of structured data.  
+### 🔷 <span style="color: #27AE60;">Pandas: The Powerhouse of Data Analysis</span>
 
 ✅ **Series & DataFrames: Structure, Creation, and Manipulation**  
 ✅ **Importing & Exporting Data (CSV, Excel, SQL, JSON)**  
