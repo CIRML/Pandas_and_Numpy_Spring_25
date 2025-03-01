@@ -44,8 +44,7 @@ This seminar provides an **immersive, hands-on approach** to data manipulation a
 
 ---
 
-## 📚 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #D35400;">Core Learning Modules</span>  
-
+## 🔷 <span style="color: #2E86C1;">NumPy: The Backbone of Scientific Computing</span>  
 ✅ **Array & Matrix Operations**  
 ✅ **Indexing, Slicing, and Iteration Techniques**  
 ✅ **Performance Optimization using Vectorized Operations**  
