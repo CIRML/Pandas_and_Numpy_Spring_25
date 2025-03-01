@@ -1,73 +1,58 @@
-<!---
-# Pandas & NumPy Spring 2025 Seminar
-### Organized for Second Semester Students
---->
+# 📊 Pandas & NumPy Seminar - Spring 2025
 
-<h1 align="center">📊 Pandas & NumPy Spring 2025 Seminar 🧮</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge&logo=pandas" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?style=for-the-badge&logo=numpy">
-</p>
-
-## 📌 Overview
-Welcome to the **Pandas & NumPy Spring 2025 Seminar**, an interactive learning experience designed for **second-semester students**. This seminar will introduce you to two of the most essential Python libraries for **data manipulation, numerical computing, and data analysis**.
-
-## 🎯 Objectives
-By the end of this seminar, participants will:
-- Understand **data structures** in Pandas (Series & DataFrames) and NumPy (Arrays & Matrices).
-- Learn **data manipulation** techniques like filtering, grouping, and transforming datasets.
-- Explore **vectorized operations** for faster computations.
-- Perform **statistical and mathematical operations** efficiently.
-- Work with **real-world datasets** to gain hands-on experience.
-
-## 📅 Schedule
-📆 **Date:** Spring 2025 <br>
-🕒 **Time:** To be announced <br>
-📍 **Location:** University Seminar Hall / Online (Hybrid Mode) <br>
-🎟 **Registration:** [Click Here to Register](#)
-
-## 🛠️ Prerequisites
-- Basic knowledge of **Python programming**.
-- Familiarity with **lists, loops, and functions**.
-- A laptop with **Jupyter Notebook or Google Colab** installed.
-
-## 📚 Topics Covered
-### 🔹 NumPy
-✅ Understanding **NumPy Arrays** & their properties.<br>
-✅ **Array Indexing & Slicing**.<br>
-✅ **Broadcasting & Vectorized Operations**.<br>
-✅ **Mathematical & Statistical Functions**.<br>
-✅ **Linear Algebra & Random Sampling**.<br>
-
-### 🔹 Pandas
-✅ Introduction to **Series & DataFrames**.<br>
-✅ **Reading & Writing Data** (CSV, Excel, JSON, SQL).<br>
-✅ **Data Cleaning** (handling missing values, duplicates).<br>
-✅ **Filtering, Sorting & Grouping Data**.<br>
-✅ **Merging & Joining Datasets**.<br>
-
-## 🎓 Why Attend?
-🌟 Gain **real-world skills** in data science.<br>
-📊 Learn **efficient data handling techniques**.<br>
-🧑‍💻 Hands-on **coding sessions & projects**.<br>
-🎖 Certificate of participation for all attendees.<br>
-
-## 🚀 Join Us!
-Interested in boosting your **data handling skills**? Don’t miss out on this **exciting learning opportunity**! 🎯
-
-📢 **For more details & registration:** Contact **Your Instructor Name** 📩 email@example.com
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Register%20Now-Join%20the%20Seminar-blue?style=for-the-badge">
-  </a>
-</p>
+## 🏫 University of Engineering and Technology (UET) Peshawar, Jalozai Campus
+Welcome to the **Pandas & NumPy Spring 2025 Seminar**, specially designed for **second-semester students**! 🚀 This seminar is an exciting opportunity to dive deep into two of the most powerful Python libraries for data manipulation and numerical computing.
 
 ---
-🔍 **Follow us for more updates:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](#)
-[![Website](https://img.shields.io/badge/Website-Visit-red?style=flat-square)](#)
 
-🔥 **Get ready to dive into the world of Pandas & NumPy!** 🧑‍💻📊
+## 📌 About the Seminar
+🔹 **Topic:** Data Analysis with Pandas & NumPy  
+🔹 **Semester:** 2nd Semester  
+🔹 **Instructor:** [Irshad Ullah](https://github.com/irshadarif)  
+🔹 **Location:** UET Peshawar, Jalozai Campus  
+🔹 **Duration:** Spring 2025  
+🔹 **Prerequisites:** Basic Python Knowledge  
+
+📅 **Schedule:** The seminar will be conducted weekly with hands-on coding sessions, real-world projects, and interactive discussions.
+
+---
+
+## 🔥 Why Attend?
+✔ Learn **Pandas** for data manipulation, preprocessing, and analysis.
+✔ Master **NumPy** for numerical computations and high-performance operations.
+✔ Work on **real-world datasets** and understand data trends.
+✔ Hands-on practice with **interactive coding challenges**.
+✔ Build a **strong foundation** for Data Science, AI, and Machine Learning.
+
+---
+
+## 📚 What You Will Learn
+### **🔹 NumPy (Numerical Python)**
+- Understanding Arrays & Matrices
+- Indexing, Slicing, and Iteration
+- Vectorized Operations for Performance Boost
+- Broadcasting and Advanced Array Manipulation
+- Linear Algebra & Random Number Generation
+
+### **🔹 Pandas (Python Data Analysis Library)**
+- DataFrames & Series: The Core Structures
+- Importing and Exporting Data (CSV, Excel, SQL, JSON)
+- Data Cleaning & Preprocessing
+- Grouping, Merging, and Pivot Tables
+- Time Series Analysis & Visualization
+
+---
+
+## 📖 Resources & Materials
+📂 **Lecture Notes & Codes:** Provided after each session.  
+📑 **Recommended Books:** Python for Data Analysis by Wes McKinney.  
+📺 **Tutorials & References:** Links to helpful articles and videos will be shared.  
+
+---
+
+## 📢 Get Involved!
+📌 **Join the Discussions:** Engage in Q&A sessions and group projects.
+📌 **Follow the Instructor:** Stay updated with [Irshad Arif](https://github.com/irshadarif) on GitHub.
+📌 **Collaborate on GitHub:** Share your projects and contribute to open-source repositories.
+
+📣 **Excited to See You There! Let’s Master Data Science Together! 🚀📊**
