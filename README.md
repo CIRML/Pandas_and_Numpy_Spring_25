@@ -2,6 +2,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="150"/>
+</p>
+
 ## 🏫 **University of Engineering and Technology (UET) Peshawar, Jalozai Campus**  
 
 Welcome to the **Pandas & NumPy Spring 2025 Seminar**, an exclusive learning experience tailored for **second-semester students**! 🚀 This seminar is designed to equip you with essential data analysis skills using **two of the most powerful Python libraries**—Pandas and NumPy.
@@ -46,12 +51,31 @@ This seminar provides an **immersive, hands-on approach** to data manipulation a
 ✅ Broadcasting & Advanced Array Transformations  
 ✅ Linear Algebra, Random Number Generation, and Statistical Analysis  
 
+#### ✨ **Example: Creating a NumPy Array**
+```python
+import numpy as np
+
+# Creating a NumPy array
+a = np.array([1, 2, 3, 4, 5])
+print(a)
+```
+
 ### 🔷 **Pandas: The Powerhouse of Data Analysis**  
 ✅ Series & DataFrames: Structure, Creation, and Manipulation  
 ✅ Importing & Exporting Data (CSV, Excel, SQL, JSON)  
 ✅ Data Cleaning & Preprocessing Techniques  
 ✅ Grouping, Merging, and Aggregation for Insights  
 ✅ Time Series Analysis & Data Visualization  
+
+#### ✨ **Example: Creating a Pandas DataFrame**
+```python
+import pandas as pd
+
+# Creating a simple DataFrame
+data = {'Name': ['Alice', 'Bob', 'Charlie'], 'Age': [25, 30, 35]}
+df = pd.DataFrame(data)
+print(df)
+```
 
 ---
 
