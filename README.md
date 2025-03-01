@@ -4,9 +4,8 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="150"/>
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="200"/>
 </p>
 
 ## 🏫 <span style="font-family: 'Arial', sans-serif; font-size: 22px;">University of Engineering and Technology (UET) Peshawar, Jalozai Campus</span>
