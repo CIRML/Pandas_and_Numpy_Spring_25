@@ -1,4 +1,4 @@
-# 🎓 <span style="font-family: 'Arial Black', sans-serif; font-size: 28px;">Pandas & NumPy Seminar - Spring 2025</span>
+# 🎓 <span style="font-family: 'Arial Black', sans-serif; font-size: 28px; color: #2E86C1;">Pandas & NumPy Seminar - Spring 2025</span>
 
 ---
 
@@ -8,27 +8,27 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="150"/>
 </p>
 
-## 🏫 <span style="font-family: 'Arial', sans-serif; font-size: 22px;">University of Engineering and Technology (UET) Peshawar, Jalozai Campus</span>
+## 🏫 <span style="font-family: 'Arial', sans-serif; font-size: 22px; color: #117A65;">University of Engineering and Technology (UET) Peshawar, Jalozai Campus</span>
 
-Welcome to the **Pandas & NumPy Spring 2025 Seminar**, an exclusive learning experience tailored for **second-semester students**! 🚀 This seminar is designed to equip you with essential data analysis skills using **two of the most powerful Python libraries**—Pandas and NumPy.
+Welcome to the **<span style="color: #D35400;">Pandas & NumPy Spring 2025 Seminar</span>**, an exclusive learning experience tailored for **second-semester students**! 🚀 This seminar is designed to equip you with essential data analysis skills using **two of the most powerful Python libraries**—Pandas and NumPy.
 
 📍 **Location:** UET Peshawar, Jalozai Campus  
 📆 **Duration:** Spring 2025  
 👨‍🏫 **Instructor:** [Irshad Ullah](https://github.com/irshadarif)  
-📚 **Prerequisites:** Basic Python Knowledge  
+📚 **Prerequisites:** <span style="color: #8E44AD;">Basic Python Knowledge</span>  
 
 ---
 
-## 📌 <span style="font-family: 'Arial Black', sans-serif;">Seminar Overview</span>  
+## 📌 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #C0392B;">Seminar Overview</span>  
 This seminar provides an **immersive, hands-on approach** to data manipulation and numerical computing. Through structured sessions, real-world projects, and interactive discussions, you will develop a **strong foundation in data science, AI, and machine learning**.
 
-💻 **Mode:** Weekly interactive coding sessions  
-📊 **Projects:** Real-world datasets, data visualization, and performance optimization  
-💡 **Engagement:** Live Q&A, group collaborations, and GitHub contributions  
+💻 **Mode:** <span style="color: #2980B9;">Weekly interactive coding sessions</span>  
+📊 **Projects:** <span style="color: #27AE60;">Real-world datasets, data visualization, and performance optimization</span>  
+💡 **Engagement:** <span style="color: #F39C12;">Live Q&A, group collaborations, and GitHub contributions</span>  
 
 ---
 
-## 🎯 <span style="font-family: 'Arial Black', sans-serif;">Why Should You Attend?</span>
+## 🎯 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #8E44AD;">Why Should You Attend?</span>
 ✔ **Master Pandas** for efficient data manipulation, preprocessing, and analysis.  
 ✔ **Learn NumPy** for numerical computing and optimized performance.  
 ✔ **Work on real-world datasets** to extract valuable insights.  
@@ -43,9 +43,9 @@ This seminar provides an **immersive, hands-on approach** to data manipulation a
 
 ---
 
-## 📚 <span style="font-family: 'Arial Black', sans-serif;">Core Learning Modules</span>  
+## 📚 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #D35400;">Core Learning Modules</span>  
 
-### 🔷 **NumPy: The Backbone of Scientific Computing**  
+### 🔷 <span style="color: #2E86C1;">NumPy: The Backbone of Scientific Computing</span>  
 ✅ **Array & Matrix Operations**  
 ✅ **Indexing, Slicing, and Iteration Techniques**  
 ✅ **Performance Optimization using Vectorized Operations**  
@@ -61,7 +61,7 @@ a = np.array([1, 2, 3, 4, 5])
 print(a)
 ```
 
-### 🔷 **Pandas: The Powerhouse of Data Analysis**  
+### 🔷 <span style="color: #27AE60;">Pandas: The Powerhouse of Data Analysis</span>  
 ✅ **Series & DataFrames: Structure, Creation, and Manipulation**  
 ✅ **Importing & Exporting Data (CSV, Excel, SQL, JSON)**  
 ✅ **Data Cleaning & Preprocessing Techniques**  
@@ -80,15 +80,15 @@ print(df)
 
 ---
 
-## 🎨 <span style="font-family: 'Arial Black', sans-serif;">Resources & Learning Materials</span>  
-📂 **Lecture Notes & Code Samples:** Shared after each session.  
-📑 **Recommended Book:** *Python for Data Analysis* by Wes McKinney.  
-📺 **Video Tutorials & Guides:** Exclusive curated content.  
-📈 **Interactive Coding Challenges:** Reinforce learning through hands-on practice.  
+## 🎨 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #C0392B;">Resources & Learning Materials</span>  
+📂 **Lecture Notes & Code Samples:** <span style="color: #2980B9;">Shared after each session.</span>  
+📑 **Recommended Book:** <span style="color: #27AE60;">*Python for Data Analysis* by Wes McKinney.</span>  
+📺 **Video Tutorials & Guides:** <span style="color: #F39C12;">Exclusive curated content.</span>  
+📈 **Interactive Coding Challenges:** <span style="color: #8E44AD;">Reinforce learning through hands-on practice.</span>  
 
 ---
 
-## 📢 <span style="font-family: 'Arial Black', sans-serif;">How to Participate?</span>  
+## 📢 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #2E86C1;">How to Participate?</span>  
 👨‍👩‍👧‍👦 **Join Live Discussions:** Engage in Q&A and group projects.  
 🔗 **Follow the Instructor:** Stay updated via [Irshad Ullah](https://github.com/irshadarif) on GitHub.  
 📌 **Collaborate on GitHub:** Share your projects and contribute to open-source repositories.  
@@ -96,7 +96,7 @@ print(df)
 
 ---
 
-## 🌟 <span style="font-family: 'Arial Black', sans-serif;">Who Should Enroll?</span>  
+## 🌟 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #D35400;">Who Should Enroll?</span>  
 🎓 **Second-semester students** passionate about **Data Science, AI, and Machine Learning**.  
 👨‍💻 Students looking to **enhance Python programming skills** for data analysis.  
 📊 Anyone eager to explore **real-world applications of Pandas & NumPy**.  
