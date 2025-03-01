@@ -1,4 +1,4 @@
-# <center🎓 <span style="font-family: 'Arial Black', sans-serif; font-size: 28px; color: #2E86C1;">Pandas & NumPy Seminar - Spring 2025</span></center>
+# <center>🎓 <span style="font-family: 'Arial Black', sans-serif; font-size: 28px; color: #2E86C1;">Pandas & NumPy Seminar - Spring 2025</span></center>
 
 ---
 
