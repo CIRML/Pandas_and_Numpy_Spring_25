@@ -64,7 +64,7 @@ This seminar provides a **hands-on learning experience** focused on **real-world
 
 ## 📢 **How to Get Involved?**  
 👨‍👩‍👧‍👦 **Join Discussions:** Participate in Q&A and group projects.  
-🔗 **Follow the Instructor:** Stay updated via [Irshad Arif](https://github.com/irshadarif) on GitHub.  
+🔗 **Follow the Instructor:** Stay updated via [Irshad Ullah](https://github.com/irshadarif) on GitHub.  
 📌 **Collaborate on GitHub:** Share projects and contribute to open-source repositories.  
 📬 **Stay Connected:** Regular updates and announcements throughout the seminar.  
 
