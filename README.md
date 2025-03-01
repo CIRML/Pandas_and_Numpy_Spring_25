@@ -46,6 +46,8 @@ This seminar provides an **immersive, hands-on approach** to data manipulation a
 ## 📚 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #D35400;">Core Learning Modules</span>  
 
 ### 🔷 <span style="color: #2E86C1;">NumPy: The Backbone of Scientific Computing</span>  
+**Definition:** NumPy (Numerical Python) is a fundamental package for scientific computing with Python. It provides support for **multi-dimensional arrays, mathematical functions, linear algebra, and more**, making numerical computations faster and more efficient.  
+
 ✅ **Array & Matrix Operations**  
 ✅ **Indexing, Slicing, and Iteration Techniques**  
 ✅ **Performance Optimization using Vectorized Operations**  
@@ -62,6 +64,8 @@ print(a)
 ```
 
 ### 🔷 <span style="color: #27AE60;">Pandas: The Powerhouse of Data Analysis</span>  
+**Definition:** Pandas is a fast, flexible, and powerful open-source **data analysis and manipulation tool** built on top of Python. It provides easy-to-use data structures such as **Series and DataFrames**, enabling efficient handling of structured data.  
+
 ✅ **Series & DataFrames: Structure, Creation, and Manipulation**  
 ✅ **Importing & Exporting Data (CSV, Excel, SQL, JSON)**  
 ✅ **Data Cleaning & Preprocessing Techniques**  
@@ -82,17 +86,17 @@ print(df)
 
 ## 🎨 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #C0392B;">Resources & Learning Materials</span>  
 📂 **Lecture Notes & Code Samples:** <span style="color: #2980B9;">Shared after each session.</span>  
-📑 **Recommended Book:** <span style="color: #27AE60;">*Python for Data Analysis* by Wes McKinney.</span>  
+💑 **Recommended Book:** <span style="color: #27AE60;">*Python for Data Analysis* by Wes McKinney.</span>  
 📺 **Video Tutorials & Guides:** <span style="color: #F39C12;">Exclusive curated content.</span>  
-📈 **Interactive Coding Challenges:** <span style="color: #8E44AD;">Reinforce learning through hands-on practice.</span>  
+📊 **Interactive Coding Challenges:** <span style="color: #8E44AD;">Reinforce learning through hands-on practice.</span>  
 
 ---
 
 ## 📢 <span style="font-family: 'Arial Black', sans-serif; font-size: 22px; color: #2E86C1;">How to Participate?</span>  
-👨‍👩‍👧‍👦 **Join Live Discussions:** Engage in Q&A and group projects.  
+👨‍👩‍👧 **Join Live Discussions:** Engage in Q&A and group projects.  
 🔗 **Follow the Instructor:** Stay updated via [Irshad Ullah](https://github.com/irshadarif) on GitHub.  
 📌 **Collaborate on GitHub:** Share your projects and contribute to open-source repositories.  
-📬 **Stay Updated:** Regular announcements and discussions throughout the seminar.  
+📩 **Stay Updated:** Regular announcements and discussions throughout the seminar.  
 
 ---
 
