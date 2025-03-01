@@ -6,8 +6,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/University_of_Engineering_and_Technology_Peshawar_logo.svg" alt="UET Peshawar Logo" width="150"/>
 </p>
+
+
 ## 🏫 <span style="font-family: 'Arial', sans-serif; font-size: 22px; color: #117A65;">University of Engineering and Technology (UET) Peshawar, Jalozai Campus</span>
 
 Welcome to the **<span style="color: #D35400;">Pandas & NumPy Spring 2025 Seminar</span>**, an exclusive learning experience tailored for **second-semester students**! 🚀 This seminar is designed to equip you with essential data analysis skills using **two of the most powerful Python libraries**—Pandas and NumPy.
